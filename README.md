@@ -2,7 +2,7 @@
 
 Show me your Language Skills
 
-![top-readme.jpg](Show%20me%20Yo%203497a/assets/images/top-readme.jpg)
+![top-readme.jpg](/assets/images/top-readme.jpg)
 
 ## ❗ About
 
@@ -16,7 +16,7 @@ Project Developed inspired on Reality Show of Rocket Seat , the objective of thi
 
 ### 📜Lighthouse Report
 
-![lighthouse-report.png](Show%20me%20Yo%203497a/assets/images/lighthouse-report.png)
+![lighthouse-report.png](/assets/images/lighthouse-report.png)
 
 ## 💻 Techs
 
